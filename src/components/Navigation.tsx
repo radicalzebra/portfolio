@@ -1,4 +1,4 @@
-import { RxGlobe,RxCrumpledPaper,RxCode,RxLink2,RxQuote } from "react-icons/rx";
+import { RxGlobe,RxCrumpledPaper,RxCode,RxQuote } from "react-icons/rx";
 import { motion } from 'motion/react';
 import ListIcon from "./ListIcon";
 
